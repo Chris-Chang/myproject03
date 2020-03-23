@@ -25,7 +25,7 @@ public class TeamService {
 	}
 
 	/**
-	 * test
+	 * test left
 	 * @Description 获取开发团队中所有成员
 	 * @author ChangZhi
 	 * @date 2020年3月6日下午9:08:28
